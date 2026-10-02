@@ -59,3 +59,4 @@ Then open:
 ## Deployment
 
 This folder can be uploaded to Netlify as a static site. Later, it can also be connected to a GitHub repository for automatic deployments.
+
