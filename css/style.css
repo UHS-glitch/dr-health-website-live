@@ -161,6 +161,7 @@ header.scrolled{box-shadow:0 10px 30px -20px rgba(7,58,128,.5)}
 .price-tag{display:flex;align-items:baseline;gap:12px;margin:6px 0 6px}
 .price-tag .amt{font-size:3.2rem;font-weight:800;color:var(--blue-dark);font-family:'Plus Jakarta Sans',sans-serif;line-height:1}
 .price-tag .mrp{font-size:1rem;color:var(--muted);text-decoration:line-through}
+.price-card .offer{font-size:1rem;font-weight:700;color:var(--blue-dark);margin:8px 0 10px}
 .price-card .note{font-size:.82rem;color:var(--muted);margin-bottom:22px}
 .price-feats{list-style:none;display:flex;flex-direction:column;gap:12px;margin:22px 0 28px}
 .price-feats li{display:flex;align-items:center;gap:11px;font-size:.94rem;font-weight:500}
