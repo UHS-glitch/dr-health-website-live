@@ -21,7 +21,7 @@ const SITE_CONFIG = {
   product: {
     name: 'Dr. Health 3 in 1 Steam Inhaler',
     shortName: '3 in 1 Steam Inhaler',
-    price: 999,
+    price: 499,
     warranty: '12 Months Warranty'
   },
 
